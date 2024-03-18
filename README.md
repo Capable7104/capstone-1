@@ -1,0 +1,1 @@
+This is my capstone project under guidance from Angela Yu's Web Development bootcamp on Udemy
